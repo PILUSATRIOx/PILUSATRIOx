@@ -1,62 +1,235 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="PILUSATRIOx - Arsip Karya dan Eksperimen" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1NjJkMzc1YS1mNjljLTQ2M2EtYWNlYy0zOTZhNjFlZTlmOGYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGqNEDoUMypz8lrUripO5yUAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1MzVjMTY5OC1mOTdlLTQ0NTEtYTQzZS1iY2E2MzIzMGJiODhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNouUQtA2qu06gtbfcF5I1HeAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggTN3mA3rcTnsSIM0c+eP3VvmDY0eZesmV3PyCmFuiufikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaP3bRMuupZWZ7Vs60g9VUn0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBi0yZZ0SFzKAa6S+IZbKQVWeTqR8dNSfQWDO6UgRHmimRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjZZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjU2MmQzNzVhLWY2OWMtNDYzYS1hY2VjLTM5NmE2MWVlOWY4Zi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY4MjVkODgwLTY1YjItNGM5Yi1hMGUxLTNmYmFiZjMyZTQ0OHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBM3eYDetxOexIgzRz54/dW+YNjR5l6yZXc/IKYW6K5+KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggcKeMUJaXYcD6ZD+CW7TdCdDm6QuM6opBSQ4/eYuSUmKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg99G8NGKfXtaFo/BRWlvx7nr4c4vfONWafRDDPmd3R8V0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQNspBLOS/e54q2rS98g//msTZsm/ryCgWax2fCtjf9mr/11QHjf3Ja8yABJ+JEyRwKDLAMg6E3JhB3eNs3689JY=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="PILUSATRIOx - Arsip Karya dan Eksperimen" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozZGNjMzU2ZC1iNzI1LTRiMWYtOTMyOS0wMmY0NzQwMWZmZTkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHED9dzYEqJisB3v/Sf3+EgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1MGI1MThiNS0xZGY4LTRlMzYtODFkMi0yZWI4NzRjYjRjMWRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoQQFthb1L1tzUTgCI+8mi8wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggX0hrSywWsj4PsR0GOxC5fbll6jOJk6L9az2x++4RypOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaO5UziMyh+R1QJmYDkF/fL0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCef35UzFKeEtV+OvlB2kDdjqHsPpm38JbQ8/RWHs2JhWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjZZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjNkY2MzNTZkLWI3MjUtNGIxZi05MzI5LTAyZjQ3NDAxZmZlOS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmEzZDJiY2U0LTgxNjktNGUwZS1iOTFlLWRlMWMyZTFhZTM1NXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBfSGtLLBayPg+xHQY7ELl9uWXqM4mTov1rPbH77hHKk6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggGcUsDn/wuZ3vWXoAX9uuLtKldRwykvUTkFwRCcyGZuyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggTzMA4WOC0lZWWw8UabCMjwyXraTr9/FPXu6hxFKnP+J0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJEgt0ubPMfS/fbfcJOXq1Pu1dPyjJ+uSb/YuQtrD/H5WDhzzHNcky2AhGMlV2dyZL0erIaVItAG0AXX2wN+jLI=</c2pa:manifest></metadata>
+  <style>
+    .fade    { animation: fadeIn .9s ease .3s both; }
+    .title   { animation: titleIn 1.6s cubic-bezier(.2,.8,.2,1) .6s both; }
+    .grow    { transform-origin: 600px 215px; animation: grow .9s cubic-bezier(.6,0,.2,1) 1.7s both; }
+    .rise    { animation: rise .9s ease 2.1s both; }
+    .shake   { animation: shake .4s linear 3.7s; }
+    .slam    { animation: slam .6s cubic-bezier(.3,1.3,.5,1) 3.4s both; }
+    .pop     { transform-box: fill-box; transform-origin: center; opacity: .55; animation: pop .35s ease-out both; }
+    .cap     { animation: fadeIn .9s ease 4s both; }
+    .spin    { transform-origin: 0 0; animation: spin 40s linear infinite; }
+    .cursor  { opacity: 0; animation: blink 1s steps(1) 2.6s infinite; }
+    .sheen   { animation: sheen 10s ease-in-out 5s infinite; }
+    .draw1   { animation: draw 1.6s ease-in-out both; }
+    .draw2   { animation: draw 1.6s ease-in-out .25s both; }
+    .corner  { animation: draw 1.1s ease-in-out 1.1s both; }
+    .mote    { opacity: 0; animation-name: mote; animation-timing-function: ease-in-out; animation-iteration-count: infinite; }
+    .twinkle { opacity: 0; transform-origin: 0 0; animation: twinkle 3.4s ease-in-out infinite; }
+    .cupin   { animation: fadeIn .9s ease 3.2s both; }
+    .steam   { stroke-dasharray: 7 9; animation: steam 2.4s linear infinite, steamfade 2.4s ease-in-out infinite; }
+    .steam2  { animation-delay: -.8s; }
+    .steam3  { animation-delay: -1.6s; }
+    .stain   { transform-origin: 0 0; animation: stain 1.1s cubic-bezier(.2,.9,.3,1) 4.3s both; }
+    .flick   { animation: none; }
+    @keyframes fadeIn  { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes rise    { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes titleIn { from { opacity: 0; letter-spacing: 34px; transform: translateY(-12px); }
+                         to   { opacity: 1; letter-spacing: 8px;  transform: translateY(0); } }
+    @keyframes grow    { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes draw    { from { stroke-dasharray: 1; stroke-dashoffset: 1; } to { stroke-dasharray: 1; stroke-dashoffset: 0; } }
+    @keyframes slam    { 0% { opacity: 0; transform: scale(3.4); }
+                         55% { opacity: .95; transform: scale(.9); }
+                         78% { transform: scale(1.05); }
+                         100% { opacity: .88; transform: scale(1); } }
+    @keyframes pop     { from { opacity: 0; transform: scale(0); } to { opacity: .55; transform: scale(1); } }
+    @keyframes shake   { 0%,100% { transform: translate(0,0); } 20% { transform: translate(3px,-2px); }
+                         40% { transform: translate(-3px,2px); } 60% { transform: translate(2px,1px); }
+                         80% { transform: translate(-1px,-1px); } }
+    @keyframes spin    { to { transform: rotate(360deg); } }
+    @keyframes blink   { 0% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes sheen   { 0% { transform: skewX(-20deg) translateX(0); }
+                         22%,100% { transform: skewX(-20deg) translateX(1650px); } }
+    @keyframes mote    { 0% { opacity: 0; transform: translate(0,0); }
+                         20% { opacity: .8; } 80% { opacity: .55; }
+                         100% { opacity: 0; transform: translate(var(--dx), var(--dy)); } }
+    @keyframes twinkle { 0%,100% { opacity: .15; transform: scale(.5); } 50% { opacity: 1; transform: scale(1.15); } }
+    @keyframes steam   { from { stroke-dashoffset: 32; } to { stroke-dashoffset: 0; } }
+    @keyframes steamfade { 0%,100% { opacity: 0; } 40%,60% { opacity: .85; } }
+    @keyframes stain   { from { opacity: 0; transform: scale(.15); } to { opacity: 1; transform: scale(1); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
   <defs>
     <filter id="grain" x="0" y="0" width="100%" height="100%">
-      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="n"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="n">
+        <animate attributeName="seed" values="7;12;3;19;5;14" dur="0.9s" calcMode="discrete" repeatCount="indefinite"/>
+      </feTurbulence>
       <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.23  0 0 0 0 0.16  0 0 0 0 0.12  0 0 0 0.09 0"/>
     </filter>
     <filter id="rough">
       <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="3" seed="3" result="t"/>
       <feDisplacementMap in="SourceGraphic" in2="t" scale="2.2"/>
     </filter>
+    <filter id="ink" x="-10%" y="-60%" width="120%" height="220%">
+      <feGaussianBlur stdDeviation="0">
+        <animate attributeName="stdDeviation" values="16;0" dur="1.5s" begin="0.7s" calcMode="spline" keyTimes="0;1" keySplines=".2 .7 .3 1" fill="freeze"/>
+      </feGaussianBlur>
+    </filter>
     <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
       <stop offset="60%" stop-color="#e9d9b8" stop-opacity="0"/>
       <stop offset="100%" stop-color="#b98f5a" stop-opacity="0.35"/>
     </radialGradient>
+    <radialGradient id="lamp" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffe6a8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffe6a8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="foil" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff8e1" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff8e1" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#fff8e1" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="inside"><rect x="30" y="30" width="1140" height="300"/></clipPath>
+    <clipPath id="typed"><rect x="440" y="280" width="0" height="34">
+      <animate attributeName="width" values="0.0;12.2;24.4;36.6;48.8;61.0;73.2;85.4;97.6;109.8;122.0;134.2;146.4;158.6;170.8;183.0;195.2;207.4;219.6;231.8;244.0;256.2;268.4;280.6;292.8;305.0;340" dur="1.6s" begin="2.6s" calcMode="discrete" fill="freeze"/>
+    </rect></clipPath>
   </defs>
 
   <!-- kertas -->
   <rect width="1200" height="360" fill="#f4e9d3"/>
   <rect width="1200" height="360" fill="url(#vignette)"/>
+
+  <!-- cahaya lampu meja yang bergeser pelan -->
+  <ellipse cy="170" rx="460" ry="260" fill="url(#lamp)">
+    <animate attributeName="cx" values="380;820;380" keyTimes="0;.5;1" dur="18s" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" repeatCount="indefinite"/>
+  </ellipse>
+
   <rect width="1200" height="360" filter="url(#grain)"/>
 
-  <!-- bingkai ganda -->
-  <rect x="20" y="20" width="1160" height="320" fill="none" stroke="#3b2a1e" stroke-width="3"/>
-  <rect x="30" y="30" width="1140" height="300" fill="none" stroke="#3b2a1e" stroke-width="1"/>
+  <g class="shake">
+    <!-- bingkai ganda, tergambar pelan-pelan -->
+    <rect class="draw1" x="20" y="20" width="1160" height="320" pathLength="1" fill="none" stroke="#3b2a1e" stroke-width="3"/>
+    <rect class="draw2" x="30" y="30" width="1140" height="300" pathLength="1" fill="none" stroke="#3b2a1e" stroke-width="1"/>
 
-  <!-- kepala surat -->
-  <g font-family="'Courier New', Courier, monospace" font-size="15" fill="#6b4f3a" letter-spacing="3">
-    <text x="60" y="68">ARSIP NO. 001</text>
-    <text x="1140" y="68" text-anchor="end">EDISI GRESIK · TERBIT TERUS</text>
+    <!-- siku hias mustard di empat sudut -->
+    <g fill="none" stroke="#d9a441" stroke-width="2.5" stroke-linecap="square">
+      <path class="corner" pathLength="1" d="M44 74 V44 H74"/>
+      <path class="corner" pathLength="1" d="M1126 44 H1156 V74"/>
+      <path class="corner" pathLength="1" d="M44 286 V316 H74"/>
+      <path class="corner" pathLength="1" d="M1126 316 H1156 V286"/>
+    </g>
+
+    <!-- bintang kecil yang berkelip -->
+    <g transform="translate(260 128)"><path class="twinkle" d="M0 -8 L4.5 0 L0 8 L-4.5 0Z" fill="#d9a441" style="animation-delay:2.0s"/></g>
+    <g transform="translate(940 128)"><path class="twinkle" d="M0 -8 L4.5 0 L0 8 L-4.5 0Z" fill="#d9a441" style="animation-delay:2.6s"/></g>
+    <g transform="translate(120 118)"><path class="twinkle" d="M0 -8 L4.5 0 L0 8 L-4.5 0Z" fill="#d9a441" style="animation-delay:3.1s"/></g>
+    <g transform="translate(1080 118)"><path class="twinkle" d="M0 -8 L4.5 0 L0 8 L-4.5 0Z" fill="#d9a441" style="animation-delay:2.3s"/></g>
+
+    <!-- kepala surat -->
+    <g class="fade" font-family="'Courier New', Courier, monospace" font-size="15" fill="#6b4f3a" letter-spacing="3">
+      <text x="60" y="68">ARSIP NO. 001</text>
+      <text x="1140" y="68" text-anchor="end">EDISI GRESIK · TERBIT TERUS</text>
+      <line x1="60" y1="80" x2="1140" y2="80" stroke="#3b2a1e" stroke-width="1"/>
+    </g>
+
+    <!-- judul: tinta meresap dari kabur ke tajam -->
+    <text class="title" filter="url(#ink)" x="600" y="190" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="700" fill="#3b2a1e" letter-spacing="8">PILUSATRIO<tspan fill="#b7410e" font-style="italic" font-weight="400">x</tspan></text>
+
+    <!-- garis hias mustard -->
+    <g class="grow">
+      <rect x="300" y="212" width="600" height="6" fill="#d9a441"/>
+      <rect x="300" y="224" width="600" height="2" fill="#3b2a1e"/>
+    </g>
+
+    <!-- subjudul -->
+    <text class="rise" x="600" y="268" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#6b4f3a">Arsip Karya &amp; Eksperimen</text>
+
+    <!-- kutipan, diketik huruf demi huruf -->
+    <g clip-path="url(#typed)">
+      <text x="600" y="304" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="17" fill="#3b2a1e" letter-spacing="2">“Kopi tumpah, ide nggak.”</text>
+    </g>
+    <rect class="cursor" x="447.5" y="290" width="9" height="18" fill="#3b2a1e">
+      <animate attributeName="x" values="447.5;459.7;471.9;484.1;496.3;508.5;520.7;532.9;545.1;557.3;569.5;581.7;593.9;606.1;618.3;630.5;642.7;654.9;667.1;679.3;691.5;703.7;715.9;728.1;740.3;752.5;760" dur="1.6s" begin="2.6s" calcMode="discrete" fill="freeze"/>
+    </rect>
+
+    <!-- secangkir kopi dengan uap yang naik -->
+    <g class="cupin" transform="translate(385 300)">
+      <ellipse cx="0" cy="4" rx="21" ry="3.5" fill="none" stroke="#6b4f3a" stroke-width="1.5"/>
+      <path d="M-12 -12 H12 V-3 Q12 3 0 3 Q-12 3 -12 -3 Z" fill="#6b4f3a"/>
+      <path d="M12 -9 Q21 -9 21 -4 Q21 1 11 0" fill="none" stroke="#6b4f3a" stroke-width="2"/>
+      <g fill="none" stroke="#8a6d4b" stroke-width="2" stroke-linecap="round">
+        <path class="steam" d="M-6 -16 Q-11 -23 -6 -30 Q-1 -37 -6 -44"/>
+        <path class="steam steam2" d="M1 -16 Q-4 -23 1 -30 Q6 -37 1 -44"/>
+        <path class="steam steam3" d="M8 -16 Q3 -23 8 -30 Q13 -37 8 -44"/>
+      </g>
+    </g>
+
+    <!-- bekas tumpahan kopi yang muncul setelah kalimat selesai -->
+    <g transform="translate(815 293)">
+      <g class="stain" filter="url(#rough)">
+        <circle r="15" fill="#8a5a2b" fill-opacity="0.10" stroke="#8a5a2b" stroke-opacity="0.45" stroke-width="3"/>
+        <circle r="9" fill="none" stroke="#8a5a2b" stroke-opacity="0.18" stroke-width="1"/>
+        <circle cx="22" cy="-8" r="2.4" fill="#8a5a2b" fill-opacity="0.4"/>
+        <circle cx="-20" cy="7" r="1.8" fill="#8a5a2b" fill-opacity="0.35"/>
+      </g>
+    </g>
+
+    <!-- stempel karat: dihantam masuk, lalu cipratan tinta -->
+    <g transform="translate(1030 215) rotate(-14)">
+      <g class="slam" filter="url(#rough)">
+        <rect x="-80" y="-34" width="160" height="68" fill="none" stroke="#b7410e" stroke-width="4"/>
+        <rect x="-73" y="-27" width="146" height="54" fill="none" stroke="#b7410e" stroke-width="1.5"/>
+        <text x="0" y="-4" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#b7410e" letter-spacing="3">ASLI</text>
+        <text x="0" y="18" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="14" fill="#b7410e" letter-spacing="2">BUKAN PASARAN</text>
+      </g>
+      <circle class="pop" cx="-98" cy="-22" r="3" fill="#b7410e" style="animation-delay:3.72s"/>
+        <circle class="pop" cx="100" cy="-30" r="2.4" fill="#b7410e" style="animation-delay:3.76s"/>
+        <circle class="pop" cx="94" cy="40" r="3.2" fill="#b7410e" style="animation-delay:3.80s"/>
+        <circle class="pop" cx="-92" cy="42" r="2.2" fill="#b7410e" style="animation-delay:3.84s"/>
+        <circle class="pop" cx="14" cy="-54" r="2.6" fill="#b7410e" style="animation-delay:3.88s"/>
+        <circle class="pop" cx="-34" cy="54" r="2.8" fill="#b7410e" style="animation-delay:3.92s"/>
+        <circle class="pop" cx="60" cy="56" r="1.8" fill="#b7410e" style="animation-delay:3.96s"/>
+        <circle class="pop" cx="-64" cy="-52" r="1.8" fill="#b7410e" style="animation-delay:4.00s"/>
+    </g>
+
+    <!-- cap bulat olive dengan cincin berputar -->
+    <g class="cap" transform="translate(170 215)">
+      <g opacity="0.8" filter="url(#rough)">
+        <circle r="46" fill="none" stroke="#6b705c" stroke-width="3"/>
+        <circle r="38" fill="none" stroke="#6b705c" stroke-width="1"/>
+        <text y="-4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#6b705c">P·Z</text>
+        <text y="16" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#6b705c" letter-spacing="2">EST. 2026</text>
+      </g>
+      <circle class="spin" r="54" fill="none" stroke="#6b705c" stroke-width="2" stroke-dasharray="2 7" opacity="0.7"/>
+    </g>
+
+    <!-- kaki -->
+    <line x1="60" y1="316" x2="1140" y2="316" stroke="#3b2a1e" stroke-width="1"/>
   </g>
-  <line x1="60" y1="80" x2="1140" y2="80" stroke="#3b2a1e" stroke-width="1"/>
 
-  <!-- judul -->
-  <text x="600" y="190" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="700" fill="#3b2a1e" letter-spacing="8">PILUSATRIO<tspan fill="#b7410e" font-style="italic" font-weight="400">x</tspan></text>
-
-  <!-- garis hias mustard -->
-  <rect x="300" y="212" width="600" height="6" fill="#d9a441"/>
-  <rect x="300" y="224" width="600" height="2" fill="#3b2a1e"/>
-
-  <!-- subjudul -->
-  <text x="600" y="268" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#6b4f3a">Arsip Karya &amp; Eksperimen</text>
-  <text x="600" y="304" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="17" fill="#3b2a1e" letter-spacing="2">“Kopi tumpah, ide nggak.”</text>
-
-  <!-- stempel karat -->
-  <g transform="translate(1030 215) rotate(-14)" filter="url(#rough)" opacity="0.88">
-    <rect x="-80" y="-34" width="160" height="68" fill="none" stroke="#b7410e" stroke-width="4"/>
-    <rect x="-73" y="-27" width="146" height="54" fill="none" stroke="#b7410e" stroke-width="1.5"/>
-    <text x="0" y="-4" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#b7410e" letter-spacing="3">ASLI</text>
-    <text x="0" y="18" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="14" fill="#b7410e" letter-spacing="2">BUKAN PASARAN</text>
+  <!-- debu kertas, goresan film, dan kilau foil -->
+  <g clip-path="url(#inside)">
+      <circle class="mote" cx="548" cy="206" r="2" fill="#8a6d4b" style="--dx:-6px;--dy:-27px;animation-duration:10.7s;animation-delay:9.6s"/>
+      <circle class="mote" cx="743" cy="266" r="1" fill="#b98f5a" style="--dx:-6px;--dy:-63px;animation-duration:13.8s;animation-delay:10.7s"/>
+      <circle class="mote" cx="705" cy="163" r="2" fill="#b98f5a" style="--dx:18px;--dy:-39px;animation-duration:10.4s;animation-delay:0.2s"/>
+      <circle class="mote" cx="116" cy="109" r="1.3" fill="#fff3d6" style="--dx:12px;--dy:-31px;animation-duration:11.9s;animation-delay:7.1s"/>
+      <circle class="mote" cx="621" cy="226" r="2" fill="#b98f5a" style="--dx:-59px;--dy:-66px;animation-duration:14.9s;animation-delay:4.9s"/>
+      <circle class="mote" cx="829" cy="142" r="1.3" fill="#b98f5a" style="--dx:2px;--dy:-69px;animation-duration:14.1s;animation-delay:1.3s"/>
+      <circle class="mote" cx="981" cy="160" r="1" fill="#8a6d4b" style="--dx:42px;--dy:-70px;animation-duration:10.9s;animation-delay:10.9s"/>
+      <circle class="mote" cx="463" cy="244" r="2" fill="#b98f5a" style="--dx:-51px;--dy:-39px;animation-duration:16.0s;animation-delay:3.2s"/>
+      <circle class="mote" cx="392" cy="64" r="2" fill="#b98f5a" style="--dx:31px;--dy:-64px;animation-duration:11.2s;animation-delay:1.2s"/>
+      <circle class="mote" cx="561" cy="187" r="2.4" fill="#8a6d4b" style="--dx:-37px;--dy:-45px;animation-duration:17.9s;animation-delay:9.2s"/>
+      <circle class="mote" cx="758" cy="90" r="2" fill="#d9a441" style="--dx:59px;--dy:-70px;animation-duration:16.8s;animation-delay:11.7s"/>
+      <circle class="mote" cx="1148" cy="65" r="1.3" fill="#fff3d6" style="--dx:-13px;--dy:-27px;animation-duration:14.8s;animation-delay:1.2s"/>
+      <circle class="mote" cx="285" cy="127" r="2.4" fill="#fff3d6" style="--dx:-21px;--dy:-55px;animation-duration:9.7s;animation-delay:1.1s"/>
+      <circle class="mote" cx="67" cy="156" r="2.4" fill="#8a6d4b" style="--dx:-6px;--dy:-22px;animation-duration:13.4s;animation-delay:6.9s"/>
+      <circle class="mote" cx="251" cy="100" r="1.3" fill="#fff3d6" style="--dx:38px;--dy:-58px;animation-duration:10.7s;animation-delay:8.9s"/>
+      <circle class="mote" cx="806" cy="161" r="2" fill="#d9a441" style="--dx:12px;--dy:-49px;animation-duration:9.9s;animation-delay:0.5s"/>
+      <circle class="mote" cx="312" cy="243" r="1.6" fill="#b98f5a" style="--dx:-10px;--dy:-25px;animation-duration:13.4s;animation-delay:6.2s"/>
+      <circle class="mote" cx="189" cy="185" r="2.4" fill="#b98f5a" style="--dx:14px;--dy:-56px;animation-duration:17.3s;animation-delay:2.4s"/>
+    <rect y="30" width="1" height="300" fill="#3b2a1e" opacity="0">
+      <animate attributeName="x" values="140;620;980;300;1090;520" dur="4.2s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.22;0;0;.16;0" dur="4.2s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+    <rect y="30" width="1" height="300" fill="#fff8e1" opacity="0">
+      <animate attributeName="x" values="860;240;1040;470" dur="5.3s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;.3;0" dur="5.3s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+    <rect class="sheen" x="-260" y="20" width="200" height="320" fill="url(#foil)"/>
   </g>
 
-  <!-- lingkaran cap olive -->
-  <g transform="translate(170 215)" filter="url(#rough)" opacity="0.8">
-    <circle r="46" fill="none" stroke="#6b705c" stroke-width="3"/>
-    <circle r="38" fill="none" stroke="#6b705c" stroke-width="1"/>
-    <text y="-4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#6b705c">P·Z</text>
-    <text y="16" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#6b705c" letter-spacing="2">EST. 2026</text>
-  </g>
-
-  <!-- kaki -->
-  <line x1="60" y1="316" x2="1140" y2="316" stroke="#3b2a1e" stroke-width="1"/>
+  <!-- kedip halus seperti proyektor film tua -->
+  <rect width="1200" height="360" fill="#2a1b10" opacity="0">
+    <animate attributeName="opacity" values="0;.03;0;.05;0;0;.02;0" dur="2.6s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
 </svg>
